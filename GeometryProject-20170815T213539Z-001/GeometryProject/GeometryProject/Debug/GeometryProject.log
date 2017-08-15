@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\plague doctor\documents\visual studio 2015\projects\geometryproject\geometryproject\main.cpp(152): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\plague doctor\documents\visual studio 2015\projects\geometryproject\geometryproject\main.cpp(152): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\plague doctor\documents\visual studio 2015\projects\geometryproject\geometryproject\main.cpp(153): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\plague doctor\documents\visual studio 2015\projects\geometryproject\geometryproject\main.cpp(153): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\plague doctor\documents\visual studio 2015\projects\geometryproject\geometryproject\main.cpp(222): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\plague doctor\documents\visual studio 2015\projects\geometryproject\geometryproject\main.cpp(222): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\plague doctor\documents\visual studio 2015\projects\geometryproject\geometryproject\main.cpp(282): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\plague doctor\documents\visual studio 2015\projects\geometryproject\geometryproject\main.cpp(325): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GeometryProject.vcxproj -> C:\Users\Plague Doctor\Documents\Visual Studio 2015\Projects\GeometryProject\Debug\GeometryProject.exe
+  GeometryProject.vcxproj -> C:\Users\Plague Doctor\Documents\Visual Studio 2015\Projects\GeometryProject\Debug\GeometryProject.pdb (Full PDB)
